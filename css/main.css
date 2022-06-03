@@ -1,0 +1,13 @@
+.box {
+    width: 400px;
+}
+
+.left-side {
+    height: 692px;
+    border: 1px solid;
+}
+.small-card{
+    height: 336px;
+    border: 1px solid;
+    margin-bottom: 20px;
+}
